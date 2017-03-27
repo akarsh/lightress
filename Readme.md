@@ -1,5 +1,5 @@
 # lightress
-Integration of Intel Edison arduino with Polar Heart rate transmitter &amp; reciever, Philips Hue
+Integration of Intel Edison Arduino with Polar Heart rate transmitter &amp; receiver, Philips Hue
 
 This code is part of,
 * Project: Neuro-Usability 
